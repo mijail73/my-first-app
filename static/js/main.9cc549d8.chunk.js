@@ -1,0 +1,2 @@
+(this["webpackJsonpmy-first-app"]=this["webpackJsonpmy-first-app"]||[]).push([[0],{5:function(o,n,e){"use strict";e.r(n);e(0);var t=e(3),s=e.n(t),l=(e(2),e(10),e(13),e(4)),c=Object(l.jsx)("button",{className:"btn btn-danger",children:"Hello World"});s.a.render(c,document.getElementById("root")),console.log(c),console.log("HOLA mundo"),console.log("HOLA mundo MIJAIL")}},[[5,1,2]]]);
+//# sourceMappingURL=main.9cc549d8.chunk.js.map
