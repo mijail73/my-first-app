@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,WACE,wBACF,CAEA,cACE,kCACF,CAEA,QACE,aACF","file":"main.1bdd97f5.chunk.css","sourcesContent":[".highlight {\r\n  background-color: #80c0b5;\r\n}\r\n\r\n.navbar-style {\r\n  background-color: #80c0b5 !important;\r\n}\r\n\r\n.dsdfsd {\r\n  color: #80c0b5;\r\n}\r\n"]}
